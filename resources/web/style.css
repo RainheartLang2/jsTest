@@ -1,0 +1,15 @@
+
+.code-field {
+    height: 100px;
+}
+
+.progress-bar {
+    width: 100%;
+    background-color: grey;
+}
+
+.progress {
+    width: 50%;
+    background-color: green;
+    height: 25px;
+}
